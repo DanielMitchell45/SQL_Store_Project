@@ -77,5 +77,5 @@ I have actually done additional changes and experiments since. However, the main
 Below are some screenshots of the queries that were created along with comments that may have been updated on the assignment script file that will be included with this. 
 
 ![SQL Query 6](https://github.com/DanielMitchell45/SQL_Store_Project/assets/65592585/49e69f76-c819-40dc-b5b5-702d593225c3)
-![SQL Query 7](https://github.com/DanielMitchell45/SQL_Store_Project/assets/65592585/42e4f230-3eac-4d8d-b14e-7acf87d1cdce)
+![SQL QUERY 7](https://github.com/DanielMitchell45/SQL_Store_Project/assets/65592585/c9d421fc-9a81-446f-996e-46af229ad316)
 ![SQL Query 8](https://github.com/DanielMitchell45/SQL_Store_Project/assets/65592585/cdef4530-8914-4389-8b00-be62400bc291)
